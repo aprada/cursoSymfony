@@ -1,0 +1,7 @@
+## YAML Template.
+---
+idexSuccess:
+  stylesheets: [jobs.css]
+  
+showSuccess:
+  stylesheets: [job.css]
